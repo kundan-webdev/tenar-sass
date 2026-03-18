@@ -267,6 +267,7 @@ nav.scrolled {
 
 /* hero-inner grows to fill available space, pushing strip to bottom */
 .hero-inner {
+    
   position: relative;
   z-index: 2;
   flex: 1;
@@ -277,7 +278,7 @@ nav.scrolled {
   max-width: 1200px;
   width: 100%;
   margin: 0 auto;
-  padding: 0rem 6% 4rem;
+  padding:2rem 0 4rem 0;
 }
 .hero-eyebrow {
   display: inline-flex;
